@@ -1,6 +1,6 @@
 # Online Library System
 
-A C++ library for managing books, users, and their interactions with a rating system.
+A C++ library System for managing books, users, and their interactions with a rating system.
 
 ## Features
 
